@@ -52,4 +52,4 @@ npm run dev
 
 ## 🎥 Video
 
-[Ver en YouTube](TU_ENLACE_AQUI)
+[Ver en YouTube](https://youtu.be/mMYm-tnAU3E)
