@@ -13,7 +13,7 @@ Aplicación SPA desarrollada en React que consume la API pública de FakeStore p
 ## ⚙️ Pasos para ejecutar el proyecto
 
 ```bash
-git clone https://github.com/TU_USUARIO/fakestore-react.git
+git clone https://github.com/SHEILA-DIAZ/fakestore-react.git
 cd fakestore-react
 npm install
 npm run dev
@@ -21,14 +21,20 @@ npm run dev
 
 ## 📸 Capturas
 
-### Vite Default
+### 🟣 Vite Default
 ![Vite Default](src/assets/capturas/01-vite-default.png)
 
-### Home
+### 🏠 Home
 ![Home](src/assets/capturas/02-home.png)
 
-### Entities
+### 📜 Entities
 ![Entities](src/assets/capturas/03-entities.png)
+
+### 🚀 Deploy en Vercel
+![Vercel Deploy](src/assets/capturas/05-vercel-deploy.png)
+
+### 🌐 App en Producción
+![App Vercel](src/assets/capturas/06-app-vercel.png)
 
 ## 🌐 Deploy
 
