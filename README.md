@@ -32,7 +32,7 @@ npm run dev
 
 ## 🌐 Deploy
 
-[Ver en Vercel](TU_ENLACE_AQUI)
+[Ver en Vercel](https://fakestore-react-five.vercel.app)
 
 ## 🎥 Video
 
